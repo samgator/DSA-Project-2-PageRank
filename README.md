@@ -1,2 +1,2 @@
 # DSA-Project-2-PageRank
-11/7/2024
+Data Structures and Algorithm Simplified PageRank project from 11/7/2024
